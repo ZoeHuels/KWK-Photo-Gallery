@@ -1,0 +1,376 @@
+
+h1{
+  font-family: 'Cinzel', serif;
+  font-size:40px;
+}
+
+.firstrow{
+  position:relative;
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+}
+
+.secondrow{
+  position:relative;
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  top:10px;
+}
+
+.thirdrow{
+  position:relative;
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  top:30px;
+}
+
+.fourthrow{
+  position:relative;
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  top:50px;
+}
+
+.fifthrow{
+  position:relative;
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  top:70px;
+}
+
+.sixthrow{
+  position:relative;
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  top:90px;
+}
+
+.seventhrow{
+  position:relative;
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  top:110px;
+  padding-bottom:20px;
+}
+
+.fox{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.seal{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.bear{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.owl{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.deer{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.cardinal{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.flamingo{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.panda{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.parrot{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.bug{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.tiger{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.osnake{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.ofish{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.butterfly{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.slug{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.duck{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.canary{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.yfish{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.dog{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.weirdbird{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.iguana{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  \border:black 5px solid;
+}
+
+.cricket{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.turtle{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.gsnake{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.frog{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.peacock{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.bparrot{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.jellyfish{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.crustacean{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.jay{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.llama{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.bdog{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.bbear{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.cat{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
+
+.panther{
+  width:250px;
+  height:250px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:black 5px solid;
+}
